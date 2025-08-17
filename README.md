@@ -23,12 +23,12 @@ Este projeto foi desenvolvido como atividade para praticar Flutter. O app permit
 ### Tela Inicial
 
 
-![Screenshot da tela inicial](../relaxing_sounds_app/images/initial.png)
+![Screenshot da tela inicial](../relaxing_sounds_app/images/tela-inicial.png)
 
 ### Tela de Favoritos
 
 
-![Screenshot da tela de favoritos](../relaxing_sounds_app/images/favorites.png)
+![Screenshot da tela de favoritos](../relaxing_sounds_app/images/tela-de-favoritos.png)
 
 ## Como executar
 
