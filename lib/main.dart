@@ -45,28 +45,28 @@ class AudioProvider with ChangeNotifier {
       title: 'Chuva',
       icon: Icons.grain,
       description: 'Som relaxante de chuva',
-      assetPath: 'assets/sounds/chuva.ogg',
+      assetPath: 'sounds/chuva.ogg',
     ),
     SoundModel(
       id: 'ocean',
       title: 'Oceano',
       icon: Icons.waves,
       description: 'Ondas do oceano',
-      assetPath: 'assets/sounds/oceano.ogg',
+      assetPath: 'sounds/oceano.ogg',
     ),
     SoundModel(
       id: 'forest',
       title: 'Floresta',
       icon: Icons.park,
       description: 'Sons da natureza',
-      assetPath: 'assets/sounds/floresta.ogg',
+      assetPath: 'sounds/floresta.ogg',
     ),
     SoundModel(
       id: 'meditation',
       title: 'Meditação',
       icon: Icons.self_improvement,
       description: 'Música para meditação',
-      assetPath: 'assets/sounds/meditacao.ogg',
+      assetPath: 'sounds/meditacao.ogg',
     ),
   ];
 

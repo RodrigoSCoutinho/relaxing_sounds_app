@@ -6,6 +6,10 @@ Aplicativo Flutter para reprodução de sons relaxantes, com opção de favorito
 
 Este projeto foi desenvolvido como atividade para praticar Flutter. O app permite ao usuário ouvir sons relaxantes (chuva, oceano, floresta, meditação), ajustar o volume e marcar seus sons favoritos para fácil acesso.
 
+## Observações
+
+- Use APENAS o arquivo `chuva.ogg` para o som.
+
 ## Funcionalidades
 
 - Lista de sons relaxantes com ícones e descrição
